@@ -1,7 +1,7 @@
 # Task Management System Documentation
 
 ## Overview
-A robust task management system built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring role-based access control, task dependencies, priority calculation, and comprehensive activity logging.
+A robust task management system built API with the MEN stack (MongoDB,Express.js,Node.js) featuring role-based access control, task dependencies, priority calculation, and comprehensive activity logging.
 
 ## Core Features
 
